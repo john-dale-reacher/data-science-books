@@ -9,7 +9,7 @@ This repository contains downloadable books related to Data Science.
 |**Computer Vision**              | [Machine Learning for OpenCV - Michael Beyeler - (2017, Packt)][2]                         |[Link][2G]                         |
 |**Algorithms**                   | [Introduction to Algorithms, 3E - Cormen et al. - (2009, MIT Press)][3]                    |[Link][3G]                         |
 |                                 | [Algorithms, 4E - Robert Sedgewick, Kevin Wayne - (2011, Addison-Wesley)][4]               |[Link][4G]                         |
-|**Data Visualization**           | [Matplotlib Plotting Cookbook - Alexandre Devert - (2014, Packt)][5]()                     |[Link][5G]                         |
+|**Data Visualization**           | [Matplotlib Plotting Cookbook - Alexandre Devert - (2014, Packt)][5]                       |[Link][5G]                         |
 
 [1]: https://github.com/john-dale-reacher/data-science-books/blob/master/Jacqueline%20Nolis%2C%20Emily%20Robinson%20-%20Build%20a%20Career%20in%20Data%20Science%20(2020%2C%20Manning%20Publications)%20-%20libgen.lc.pdf
 [1G]: https://www.goodreads.com/book/show/52661559-build-a-career-in-data-science
